@@ -1,0 +1,6 @@
+api/stellarburgers/Ingredient.class
+api/stellarburgers/Ingredients.class
+api/stellarburgers/Order.class
+clientStellarBurgers/UserClient.class
+clientStellarBurgers/OrderClient.class
+api/stellarburgers/User.class
